@@ -17,8 +17,8 @@ Our final models predict the release year and probable genres of a director's ne
 
 ## Future Work
 While the current models provide valuable predictions, there are several areas for future work and improvement:
--Incorporating Additional Features: Explore additional features such as movie budget, box office performance, director's previous awards, and critical acclaim to enhance the predictive power of the model.
--External Data Sources: Integrate external data sources such as movie reviews, social media sentiment, and industry trends to capture more comprehensive insights and improve prediction accuracy.
--Advanced Algorithms: Experiment with more advanced machine learning algorithms such as neural networks, ensemble methods, and deep learning architectures to capture complex patterns and relationships in the data.
--Model Interpretability: Enhance the interpretability of the models by incorporating techniques such as feature importance analysis, partial dependence plots, and SHAP (SHapley Additive exPlanations) values to understand the factors driving predictions.
--Real-Time Updates: Implement a system for real-time updates and retraining of the models to adapt to changing trends, preferences, and market dynamics in the movie industry.
+ -Incorporating Additional Features: Explore additional features such as movie budget, box office performance, director's previous awards, and critical acclaim to enhance the predictive power of the model.
+ -External Data Sources: Integrate external data sources such as movie reviews, social media sentiment, and industry trends to capture more comprehensive insights and improve prediction accuracy.
+ -Advanced Algorithms: Experiment with more advanced machine learning algorithms such as neural networks, ensemble methods, and deep learning architectures to capture complex patterns and relationships in the data.
+ -Model Interpretability: Enhance the interpretability of the models by incorporating techniques such as feature importance analysis, partial dependence plots, and SHAP (SHapley Additive exPlanations) values to understand the factors driving predictions.
+ -Real-Time Updates: Implement a system for real-time updates and retraining of the models to adapt to changing trends, preferences, and market dynamics in the movie industry.
